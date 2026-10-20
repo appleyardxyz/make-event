@@ -140,7 +140,7 @@
 
             <div class="talks-note">
                 <p>
-                    <em>Among philosophies of open tools, speculative design concepts, faifailed side project with lessons that stuck and things someone built just to see if they could.</em>
+                    <em>Among philosophies of open tools, speculative design concepts, failed side project with lessons that stuck and things someone built just to see if they could.</em>
                 </p>
                 <p>
                     <em>You don't need a polished pitch deck, in fact we'd rather it wasn't a pitch deck at all.</em>
