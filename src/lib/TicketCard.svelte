@@ -210,7 +210,6 @@
     margin-bottom: 0.25rem;
     font-weight: 500;
     letter-spacing: 0.02em;
-    text-transform: uppercase;
   }
 
   .ticket-date {
