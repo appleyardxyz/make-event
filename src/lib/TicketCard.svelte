@@ -1,4 +1,5 @@
 <script context="module">
+  export const defaultTicketUrl = "https://luma.com/qyimx88z";
   export const defaultEventDate = "Tuesday 10th November 2026";
   // e.g. "Tuesday 10th November 2026" -> "10 Nov 2026"
   export const defaultEventDateShort = defaultEventDate
@@ -24,7 +25,7 @@
   export let location = "To Be Announced";
   export let format = "6 × 6min talks";
   export let price = "Free";
-  export let eventbriteUrl = "https://luma.com/qyimx88z";
+  export let eventbriteUrl = defaultTicketUrl;
   export let perks = [
     "6 creative tech flash talks",
     "Networking with local makers & creatives", 
