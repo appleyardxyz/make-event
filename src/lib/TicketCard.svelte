@@ -11,7 +11,7 @@
 <script>
   import { onMount, onDestroy } from 'svelte';
 
-  export let eventTitle = "MAKE~";
+  export let eventTitle = "make~";
   export let eventDate = defaultEventDate;
   export let eventTime = "5:30 PM – 8:00 PM";
   export let eventDateTime = "2026-11-10T17:30:00"; // ISO format for countdown
